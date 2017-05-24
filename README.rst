@@ -1,4 +1,4 @@
-ShoePositionDocs
+定位鞋系统
 ================
 
-`ShoePosition项目<https://github.com/wxkNeter/ShoePosition>'_的后台api文档
+`本文档托管于readthedocs.org <http://shoeposition.readthedocs.io>`_
